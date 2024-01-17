@@ -1,252 +1,261 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <w:settings xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:sl="http://schemas.openxmlformats.org/schemaLibrary/2006/main" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh">
-    <w:zoom w:percent="100"/>
-    <w:proofState w:spelling="clean" w:grammar="clean"/>
-    <w:stylePaneFormatFilter w:val="1F08" w:allStyles="0" w:customStyles="0" w:latentStyles="0" w:stylesInUse="1" w:headingStyles="0" w:numberingStyles="0" w:tableStyles="0" w:directFormattingOnRuns="1" w:directFormattingOnParagraphs="1" w:directFormattingOnNumbering="1" w:directFormattingOnTables="1" w:clearFormatting="1" w:top3HeadingStyles="0" w:visibleStyles="0" w:alternateStyleNames="0"/>
-    <w:defaultTabStop w:val="720"/>
-    <w:drawingGridHorizontalSpacing w:val="110"/>
-    <w:displayHorizontalDrawingGridEvery w:val="2"/>
-    <w:displayVerticalDrawingGridEvery w:val="2"/>
-    <w:characterSpacingControl w:val="doNotCompress"/>
+    <w:stylePaneFormatFilter w:val="1F08" w:allStyles="0" w:customStyles="0" w:latentStyles="0" w:stylesInUse="1" w:headingStyles="0" w:numberingStyles="0" w:tableStyles="0" w:directFormattingOnRuns="1" w:directFormattingOnParagraphs="1" w:directFormattingOnNumbering="1" w:directFormattingOnTables="1" w:clearFormatting="1" w:top3HeadingStyles="0" w:visibleStyles="0" w:alternateStyleNames="0" />
+    <w:trackRevisions w:val="false" />
+    <w:defaultTabStop w:val="720" />
+    <w:drawingGridHorizontalSpacing w:val="110" />
+    <w:displayHorizontalDrawingGridEvery w:val="2" />
+    <w:displayVerticalDrawingGridEvery w:val="2" />
+    <w:characterSpacingControl w:val="doNotCompress" />
     <w:hdrShapeDefaults>
-        <o:shapedefaults v:ext="edit" spidmax="2050"/>
+        <o:shapedefaults v:ext="edit" spidmax="2050" />
     </w:hdrShapeDefaults>
     <w:footnotePr>
-        <w:footnote w:id="-1"/>
-        <w:footnote w:id="0"/>
+        <w:footnote w:id="-1" />
+        <w:footnote w:id="0" />
     </w:footnotePr>
     <w:endnotePr>
-        <w:endnote w:id="-1"/>
-        <w:endnote w:id="0"/>
+        <w:endnote w:id="-1" />
+        <w:endnote w:id="0" />
     </w:endnotePr>
     <w:compat>
-        <w:useFELayout/>
-        <w:compatSetting w:name="compatibilityMode" w:uri="http://schemas.microsoft.com/office/word" w:val="15"/>
-        <w:compatSetting w:name="overrideTableStyleFontSizeAndJustification" w:uri="http://schemas.microsoft.com/office/word" w:val="1"/>
-        <w:compatSetting w:name="enableOpenTypeFeatures" w:uri="http://schemas.microsoft.com/office/word" w:val="1"/>
-        <w:compatSetting w:name="doNotFlipMirrorIndents" w:uri="http://schemas.microsoft.com/office/word" w:val="1"/>
-        <w:compatSetting w:name="differentiateMultirowTableHeaders" w:uri="http://schemas.microsoft.com/office/word" w:val="1"/>
-        <w:compatSetting w:name="useWord2013TrackBottomHyphenation" w:uri="http://schemas.microsoft.com/office/word" w:val="1"/>
+        <w:useFELayout />
+        <w:compatSetting w:name="compatibilityMode" w:uri="http://schemas.microsoft.com/office/word" w:val="15" />
+        <w:compatSetting w:name="overrideTableStyleFontSizeAndJustification" w:uri="http://schemas.microsoft.com/office/word" w:val="1" />
+        <w:compatSetting w:name="enableOpenTypeFeatures" w:uri="http://schemas.microsoft.com/office/word" w:val="1" />
+        <w:compatSetting w:name="doNotFlipMirrorIndents" w:uri="http://schemas.microsoft.com/office/word" w:val="1" />
+        <w:compatSetting w:name="differentiateMultirowTableHeaders" w:uri="http://schemas.microsoft.com/office/word" w:val="1" />
+        <w:compatSetting w:name="useWord2013TrackBottomHyphenation" w:uri="http://schemas.microsoft.com/office/word" w:val="1" />
     </w:compat>
     <w:rsids>
-        <w:rsidRoot w:val="00234764"/>
-        <w:rsid w:val="00002FE6"/>
-        <w:rsid w:val="00015B02"/>
-        <w:rsid w:val="0002201C"/>
-        <w:rsid w:val="000456B5"/>
-        <w:rsid w:val="00047AA8"/>
-        <w:rsid w:val="0008698C"/>
-        <w:rsid w:val="00086A06"/>
-        <w:rsid w:val="00090E31"/>
-        <w:rsid w:val="0009282A"/>
-        <w:rsid w:val="000A32D0"/>
-        <w:rsid w:val="000A596F"/>
-        <w:rsid w:val="000A5BA7"/>
-        <w:rsid w:val="000B6129"/>
-        <w:rsid w:val="000E3AE6"/>
-        <w:rsid w:val="000F3F9F"/>
-        <w:rsid w:val="0010313C"/>
-        <w:rsid w:val="001061B7"/>
-        <w:rsid w:val="00120255"/>
-        <w:rsid w:val="001233EA"/>
-        <w:rsid w:val="00134508"/>
-        <w:rsid w:val="00134941"/>
-        <w:rsid w:val="00156832"/>
-        <w:rsid w:val="0016527C"/>
-        <w:rsid w:val="001774B4"/>
-        <w:rsid w:val="001807B8"/>
-        <w:rsid w:val="001947C8"/>
-        <w:rsid w:val="001A1325"/>
-        <w:rsid w:val="001A2F75"/>
-        <w:rsid w:val="001D3ED4"/>
-        <w:rsid w:val="001E1761"/>
-        <w:rsid w:val="00203E9A"/>
-        <w:rsid w:val="00223ABF"/>
-        <w:rsid w:val="00234764"/>
-        <w:rsid w:val="002376F6"/>
-        <w:rsid w:val="00271C5C"/>
-        <w:rsid w:val="00280A85"/>
-        <w:rsid w:val="0028461E"/>
-        <w:rsid w:val="00285E3A"/>
-        <w:rsid w:val="002A0985"/>
-        <w:rsid w:val="002B5A54"/>
-        <w:rsid w:val="002C2599"/>
-        <w:rsid w:val="002C3DC9"/>
-        <w:rsid w:val="002D4EF9"/>
-        <w:rsid w:val="00301107"/>
-        <w:rsid w:val="00324B94"/>
-        <w:rsid w:val="00350763"/>
-        <w:rsid w:val="00394C8E"/>
-        <w:rsid w:val="003C78C1"/>
-        <w:rsid w:val="003E3B32"/>
-        <w:rsid w:val="003F1614"/>
-        <w:rsid w:val="00416311"/>
-        <w:rsid w:val="004204D9"/>
-        <w:rsid w:val="0044322A"/>
-        <w:rsid w:val="004673B8"/>
-        <w:rsid w:val="004843F1"/>
-        <w:rsid w:val="004B3F52"/>
-        <w:rsid w:val="004C4D58"/>
-        <w:rsid w:val="005067E5"/>
-        <w:rsid w:val="00510ADA"/>
-        <w:rsid w:val="00535500"/>
-        <w:rsid w:val="0055211F"/>
-        <w:rsid w:val="0055424F"/>
-        <w:rsid w:val="00583609"/>
-        <w:rsid w:val="005A2546"/>
-        <w:rsid w:val="005C62C4"/>
-        <w:rsid w:val="005E0CF0"/>
-        <w:rsid w:val="005E44C6"/>
-        <w:rsid w:val="005E4D98"/>
-        <w:rsid w:val="00600998"/>
-        <w:rsid w:val="00606818"/>
-        <w:rsid w:val="0061758A"/>
-        <w:rsid w:val="0062239C"/>
-        <w:rsid w:val="00644522"/>
-        <w:rsid w:val="00645FEF"/>
-        <w:rsid w:val="00663563"/>
-        <w:rsid w:val="00686715"/>
-        <w:rsid w:val="006870A2"/>
-        <w:rsid w:val="006A043F"/>
-        <w:rsid w:val="006D4126"/>
-        <w:rsid w:val="006F0422"/>
-        <w:rsid w:val="006F0C2A"/>
-        <w:rsid w:val="006F347D"/>
-        <w:rsid w:val="006F79B2"/>
-        <w:rsid w:val="00701484"/>
-        <w:rsid w:val="00773BBD"/>
-        <w:rsid w:val="0080673C"/>
-        <w:rsid w:val="00816170"/>
-        <w:rsid w:val="00830D33"/>
-        <w:rsid w:val="008624B4"/>
-        <w:rsid w:val="00876F31"/>
-        <w:rsid w:val="008828B3"/>
-        <w:rsid w:val="00886395"/>
-        <w:rsid w:val="008A189D"/>
-        <w:rsid w:val="008E11BB"/>
-        <w:rsid w:val="008F0A00"/>
-        <w:rsid w:val="00901F6A"/>
-        <w:rsid w:val="00905235"/>
-        <w:rsid w:val="00906503"/>
-        <w:rsid w:val="009172A7"/>
-        <w:rsid w:val="00941A38"/>
-        <w:rsid w:val="009564AA"/>
-        <w:rsid w:val="00957908"/>
-        <w:rsid w:val="0096275E"/>
-        <w:rsid w:val="0096656D"/>
-        <w:rsid w:val="009904F9"/>
-        <w:rsid w:val="009A6C54"/>
-        <w:rsid w:val="009C03A8"/>
-        <w:rsid w:val="009C401E"/>
-        <w:rsid w:val="009D179E"/>
-        <w:rsid w:val="009E06CB"/>
-        <w:rsid w:val="009E6E3F"/>
-        <w:rsid w:val="009E7DC9"/>
-        <w:rsid w:val="00A00057"/>
-        <w:rsid w:val="00A02FBC"/>
-        <w:rsid w:val="00A10768"/>
-        <w:rsid w:val="00A14F17"/>
-        <w:rsid w:val="00A262DA"/>
-        <w:rsid w:val="00A26ABC"/>
-        <w:rsid w:val="00A5391C"/>
-        <w:rsid w:val="00A56DB0"/>
-        <w:rsid w:val="00A94E5B"/>
-        <w:rsid w:val="00AA4FF0"/>
-        <w:rsid w:val="00AB6648"/>
-        <w:rsid w:val="00AC0258"/>
-        <w:rsid w:val="00AD0B97"/>
-        <w:rsid w:val="00AE096E"/>
-        <w:rsid w:val="00AE0E53"/>
-        <w:rsid w:val="00AF2319"/>
-        <w:rsid w:val="00AF5CC4"/>
-        <w:rsid w:val="00B20117"/>
-        <w:rsid w:val="00B22529"/>
-        <w:rsid w:val="00B355AC"/>
-        <w:rsid w:val="00B453AA"/>
-        <w:rsid w:val="00B56517"/>
-        <w:rsid w:val="00B716A2"/>
-        <w:rsid w:val="00B84AFA"/>
-        <w:rsid w:val="00B84E3B"/>
-        <w:rsid w:val="00B90F3C"/>
-        <w:rsid w:val="00BC0AD8"/>
-        <w:rsid w:val="00BC6546"/>
-        <w:rsid w:val="00C111D4"/>
-        <w:rsid w:val="00C2033F"/>
-        <w:rsid w:val="00C212B4"/>
-        <w:rsid w:val="00C23252"/>
-        <w:rsid w:val="00C27CEB"/>
-        <w:rsid w:val="00C33A12"/>
-        <w:rsid w:val="00C416AE"/>
-        <w:rsid w:val="00C66B99"/>
-        <w:rsid w:val="00C71CA0"/>
-        <w:rsid w:val="00C75CC6"/>
-        <w:rsid w:val="00C773C6"/>
-        <w:rsid w:val="00C8011B"/>
-        <w:rsid w:val="00C91123"/>
-        <w:rsid w:val="00C96186"/>
-        <w:rsid w:val="00CD1C9B"/>
-        <w:rsid w:val="00CE2116"/>
-        <w:rsid w:val="00D231D4"/>
-        <w:rsid w:val="00D272CA"/>
-        <w:rsid w:val="00D27EA0"/>
-        <w:rsid w:val="00D44B5C"/>
-        <w:rsid w:val="00D83D0B"/>
-        <w:rsid w:val="00D86322"/>
-        <w:rsid w:val="00DB7699"/>
-        <w:rsid w:val="00DC1DFB"/>
-        <w:rsid w:val="00DE74DD"/>
-        <w:rsid w:val="00E00713"/>
-        <w:rsid w:val="00E054B0"/>
-        <w:rsid w:val="00E06234"/>
-        <w:rsid w:val="00E2071A"/>
-        <w:rsid w:val="00E216A2"/>
-        <w:rsid w:val="00E479C0"/>
-        <w:rsid w:val="00E60016"/>
-        <w:rsid w:val="00E90F1F"/>
-        <w:rsid w:val="00E95054"/>
-        <w:rsid w:val="00EF2C00"/>
-        <w:rsid w:val="00EF2D04"/>
-        <w:rsid w:val="00EF6D0A"/>
-        <w:rsid w:val="00F00DBF"/>
-        <w:rsid w:val="00F123DF"/>
-        <w:rsid w:val="00F232F8"/>
-        <w:rsid w:val="00F377CE"/>
-        <w:rsid w:val="00F506F8"/>
-        <w:rsid w:val="00F63F10"/>
-        <w:rsid w:val="00F6745E"/>
-        <w:rsid w:val="00F953B7"/>
-        <w:rsid w:val="00F967C4"/>
-        <w:rsid w:val="00FA226B"/>
-        <w:rsid w:val="00FB54C7"/>
-        <w:rsid w:val="00FE4F0E"/>
-        <w:rsid w:val="00FF0F0D"/>
-        <w:rsid w:val="00FF1F5D"/>
-        <w:rsid w:val="00FF5629"/>
+        <w:rsidRoot w:val="00234764" />
+        <w:rsid w:val="00002FE6" />
+        <w:rsid w:val="00015B02" />
+        <w:rsid w:val="0002201C" />
+        <w:rsid w:val="000456B5" />
+        <w:rsid w:val="00047AA8" />
+        <w:rsid w:val="0008698C" />
+        <w:rsid w:val="00086A06" />
+        <w:rsid w:val="00090E31" />
+        <w:rsid w:val="0009282A" />
+        <w:rsid w:val="000A32D0" />
+        <w:rsid w:val="000A596F" />
+        <w:rsid w:val="000A5BA7" />
+        <w:rsid w:val="000B6129" />
+        <w:rsid w:val="000E3AE6" />
+        <w:rsid w:val="000E6667" />
+        <w:rsid w:val="000F3F9F" />
+        <w:rsid w:val="0010313C" />
+        <w:rsid w:val="001061B7" />
+        <w:rsid w:val="00120255" />
+        <w:rsid w:val="001233EA" />
+        <w:rsid w:val="00134508" />
+        <w:rsid w:val="00134941" />
+        <w:rsid w:val="00156832" />
+        <w:rsid w:val="0016527C" />
+        <w:rsid w:val="001774B4" />
+        <w:rsid w:val="001807B8" />
+        <w:rsid w:val="001947C8" />
+        <w:rsid w:val="001A1325" />
+        <w:rsid w:val="001A2F75" />
+        <w:rsid w:val="001D3ED4" />
+        <w:rsid w:val="001E1761" />
+        <w:rsid w:val="00203E9A" />
+        <w:rsid w:val="00234764" />
+        <w:rsid w:val="002376F6" />
+        <w:rsid w:val="00271C5C" />
+        <w:rsid w:val="00280A85" />
+        <w:rsid w:val="0028461E" />
+        <w:rsid w:val="00285E3A" />
+        <w:rsid w:val="002A0985" />
+        <w:rsid w:val="002B5A54" />
+        <w:rsid w:val="002C2599" />
+        <w:rsid w:val="002C3DC9" />
+        <w:rsid w:val="002D4EF9" />
+        <w:rsid w:val="00301107" />
+        <w:rsid w:val="00324B94" />
+        <w:rsid w:val="00350763" />
+        <w:rsid w:val="00394C8E" />
+        <w:rsid w:val="003C78C1" />
+        <w:rsid w:val="003E3B32" />
+        <w:rsid w:val="003F1614" />
+        <w:rsid w:val="003F47C8" />
+        <w:rsid w:val="00416311" />
+        <w:rsid w:val="004204D9" />
+        <w:rsid w:val="0044322A" />
+        <w:rsid w:val="004673B8" />
+        <w:rsid w:val="004843F1" />
+        <w:rsid w:val="004B3F52" />
+        <w:rsid w:val="004C4D58" />
+        <w:rsid w:val="005067E5" />
+        <w:rsid w:val="00510ADA" />
+        <w:rsid w:val="00523ADC" />
+        <w:rsid w:val="00535500" />
+        <w:rsid w:val="0055211F" />
+        <w:rsid w:val="0055424F" />
+        <w:rsid w:val="00583609" />
+        <w:rsid w:val="005A2546" />
+        <w:rsid w:val="005C62C4" />
+        <w:rsid w:val="005E0CF0" />
+        <w:rsid w:val="005E44C6" />
+        <w:rsid w:val="005E4D98" />
+        <w:rsid w:val="00600998" />
+        <w:rsid w:val="00606818" />
+        <w:rsid w:val="0061758A" />
+        <w:rsid w:val="0062239C" />
+        <w:rsid w:val="00644522" />
+        <w:rsid w:val="00645FEF" />
+        <w:rsid w:val="00663563" />
+        <w:rsid w:val="00686715" />
+        <w:rsid w:val="006870A2" />
+        <w:rsid w:val="006A043F" />
+        <w:rsid w:val="006D4126" />
+        <w:rsid w:val="006F0422" />
+        <w:rsid w:val="006F0C2A" />
+        <w:rsid w:val="006F347D" />
+        <w:rsid w:val="006F79B2" />
+        <w:rsid w:val="00701484" />
+        <w:rsid w:val="00773BBD" />
+        <w:rsid w:val="0080673C" />
+        <w:rsid w:val="00816170" />
+        <w:rsid w:val="00830D33" />
+        <w:rsid w:val="008624B4" />
+        <w:rsid w:val="00876F31" />
+        <w:rsid w:val="008828B3" />
+        <w:rsid w:val="00886395" />
+        <w:rsid w:val="008A189D" />
+        <w:rsid w:val="008B6960" />
+        <w:rsid w:val="008E11BB" />
+        <w:rsid w:val="008F0A00" />
+        <w:rsid w:val="00901F6A" />
+        <w:rsid w:val="00905235" />
+        <w:rsid w:val="00906503" />
+        <w:rsid w:val="009172A7" />
+        <w:rsid w:val="00941A38" />
+        <w:rsid w:val="009564AA" />
+        <w:rsid w:val="00957908" />
+        <w:rsid w:val="0096275E" />
+        <w:rsid w:val="0096656D" />
+        <w:rsid w:val="009A6C54" />
+        <w:rsid w:val="009C03A8" />
+        <w:rsid w:val="009C401E" />
+        <w:rsid w:val="009E06CB" />
+        <w:rsid w:val="009E6E3F" />
+        <w:rsid w:val="009E7DC9" />
+        <w:rsid w:val="00A00057" />
+        <w:rsid w:val="00A02FBC" />
+        <w:rsid w:val="00A10768" />
+        <w:rsid w:val="00A14F17" />
+        <w:rsid w:val="00A262DA" />
+        <w:rsid w:val="00A26ABC" />
+        <w:rsid w:val="00A5391C" />
+        <w:rsid w:val="00A56DB0" />
+        <w:rsid w:val="00A94E5B" />
+        <w:rsid w:val="00AA4FF0" />
+        <w:rsid w:val="00AB6648" />
+        <w:rsid w:val="00AC0258" />
+        <w:rsid w:val="00AD0B97" />
+        <w:rsid w:val="00AE096E" />
+        <w:rsid w:val="00AE0E53" />
+        <w:rsid w:val="00AF2319" />
+        <w:rsid w:val="00AF5CC4" />
+        <w:rsid w:val="00B20117" />
+        <w:rsid w:val="00B22529" />
+        <w:rsid w:val="00B355AC" />
+        <w:rsid w:val="00B453AA" />
+        <w:rsid w:val="00B553B9" />
+        <w:rsid w:val="00B56517" />
+        <w:rsid w:val="00B716A2" />
+        <w:rsid w:val="00B84AFA" />
+        <w:rsid w:val="00B84E3B" />
+        <w:rsid w:val="00B90F3C" />
+        <w:rsid w:val="00BC0AD8" />
+        <w:rsid w:val="00BC6546" />
+        <w:rsid w:val="00C111D4" />
+        <w:rsid w:val="00C2033F" />
+        <w:rsid w:val="00C212B4" />
+        <w:rsid w:val="00C23252" />
+        <w:rsid w:val="00C27CEB" />
+        <w:rsid w:val="00C33A12" />
+        <w:rsid w:val="00C416AE" />
+        <w:rsid w:val="00C66B99" />
+        <w:rsid w:val="00C75CC6" />
+        <w:rsid w:val="00C773C6" />
+        <w:rsid w:val="00C8011B" />
+        <w:rsid w:val="00C91123" />
+        <w:rsid w:val="00C96186" />
+        <w:rsid w:val="00CD1C9B" />
+        <w:rsid w:val="00CE2116" />
+        <w:rsid w:val="00D231D4" />
+        <w:rsid w:val="00D272CA" />
+        <w:rsid w:val="00D27EA0" />
+        <w:rsid w:val="00D44B5C" />
+        <w:rsid w:val="00D83D0B" />
+        <w:rsid w:val="00D86322" />
+        <w:rsid w:val="00DB7699" />
+        <w:rsid w:val="00DC1DFB" />
+        <w:rsid w:val="00DE74DD" />
+        <w:rsid w:val="00E00713" />
+        <w:rsid w:val="00E054B0" />
+        <w:rsid w:val="00E06234" />
+        <w:rsid w:val="00E2071A" />
+        <w:rsid w:val="00E216A2" />
+        <w:rsid w:val="00E479C0" />
+        <w:rsid w:val="00E60016" />
+        <w:rsid w:val="00E90F1F" />
+        <w:rsid w:val="00E95054" />
+        <w:rsid w:val="00EF2C00" />
+        <w:rsid w:val="00EF2D04" />
+        <w:rsid w:val="00EF6D0A" />
+        <w:rsid w:val="00F00DBF" />
+        <w:rsid w:val="00F03A26" />
+        <w:rsid w:val="00F123DF" />
+        <w:rsid w:val="00F232F8" />
+        <w:rsid w:val="00F377CE" />
+        <w:rsid w:val="00F506F8" />
+        <w:rsid w:val="00F63F10" />
+        <w:rsid w:val="00F6745E" />
+        <w:rsid w:val="00F953B7" />
+        <w:rsid w:val="00F967C4" />
+        <w:rsid w:val="00FA226B" />
+        <w:rsid w:val="00FB54C7" />
+        <w:rsid w:val="00FE047F" />
+        <w:rsid w:val="00FE4F0E" />
+        <w:rsid w:val="00FF0F0D" />
+        <w:rsid w:val="00FF1F5D" />
+        <w:rsid w:val="00FF5629" />
+        <w:rsid w:val="067CA511" />
+        <w:rsid w:val="143E7983" />
+        <w:rsid w:val="2885C27E" />
+        <w:rsid w:val="2A13B207" />
+        <w:rsid w:val="77F4D576" />
+        <w:rsid w:val="7885B3C0" />
+        <w:rsid w:val="7E1DF11B" />
     </w:rsids>
     <m:mathPr>
-        <m:mathFont m:val="Cambria Math"/>
-        <m:brkBin m:val="before"/>
-        <m:brkBinSub m:val="--"/>
-        <m:smallFrac m:val="0"/>
-        <m:dispDef/>
-        <m:lMargin m:val="0"/>
-        <m:rMargin m:val="0"/>
-        <m:defJc m:val="centerGroup"/>
-        <m:wrapIndent m:val="1440"/>
-        <m:intLim m:val="subSup"/>
-        <m:naryLim m:val="undOvr"/>
+        <m:mathFont m:val="Cambria Math" />
+        <m:brkBin m:val="before" />
+        <m:brkBinSub m:val="--" />
+        <m:smallFrac m:val="0" />
+        <m:dispDef />
+        <m:lMargin m:val="0" />
+        <m:rMargin m:val="0" />
+        <m:defJc m:val="centerGroup" />
+        <m:wrapIndent m:val="1440" />
+        <m:intLim m:val="subSup" />
+        <m:naryLim m:val="undOvr" />
     </m:mathPr>
-    <w:themeFontLang w:val="en-IN"/>
-    <w:clrSchemeMapping w:bg1="light1" w:t1="dark1" w:bg2="light2" w:t2="dark2" w:accent1="accent1" w:accent2="accent2" w:accent3="accent3" w:accent4="accent4" w:accent5="accent5" w:accent6="accent6" w:hyperlink="hyperlink" w:followedHyperlink="followedHyperlink"/>
+    <w:themeFontLang w:val="en-US" w:eastAsia="ja-JP" w:bidi="ar-SA" />
+    <w:clrSchemeMapping w:bg1="light1" w:t1="dark1" w:bg2="light2" w:t2="dark2" w:accent1="accent1" w:accent2="accent2" w:accent3="accent3" w:accent4="accent4" w:accent5="accent5" w:accent6="accent6" w:hyperlink="hyperlink" w:followedHyperlink="followedHyperlink" />
     <w:shapeDefaults>
-        <o:shapedefaults v:ext="edit" spidmax="2050"/>
+        <o:shapedefaults v:ext="edit" spidmax="2050" />
         <o:shapelayout v:ext="edit">
-            <o:idmap v:ext="edit" data="2"/>
+            <o:idmap v:ext="edit" data="2" />
         </o:shapelayout>
     </w:shapeDefaults>
-    <w:decimalSymbol w:val="."/>
-    <w:listSeparator w:val=","/>
-    <w14:docId w14:val="5D2B62F2"/>
-    <w15:chartTrackingRefBased/>
-    <w15:docId w15:val="{63E4ECC9-7B13-4E8F-AE03-9BB9CEDA32A8}"/>
+    <w:decimalSymbol w:val="." />
+    <w:listSeparator w:val="," />
+    <w14:docId w14:val="5D2B62F2" />
+    <w15:chartTrackingRefBased />
+    <w15:docId w15:val="{D3F7E35E-CD95-4C1C-9FBA-5AB87516E180}" />
 </w:settings>
