@@ -1,2 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Properties xmlns="http://schemas.openxmlformats.org/officeDocument/2006/custom-properties" xmlns:vt="http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes"><property fmtid="{D5CDD505-2E9C-101B-9397-08002B2CF9AE}" pid="2" name="DecisionsMeetingId"><vt:lpwstr>040000008200E00074C5B7101A82E0080000000079185C9AE542DA010000000000000000100000000A34A90D3227824D8C86EBDA3D1A3DA0</vt:lpwstr></property><property fmtid="{D5CDD505-2E9C-101B-9397-08002B2CF9AE}" pid="3" name="DecisionsFileType"><vt:lpwstr>MinutesWord</vt:lpwstr></property><property fmtid="{D5CDD505-2E9C-101B-9397-08002B2CF9AE}" pid="4" name="ContentTypeId"><vt:lpwstr>0x010100F870E797FB5DB94597478477909AE4FB</vt:lpwstr></property><property fmtid="{D5CDD505-2E9C-101B-9397-08002B2CF9AE}" pid="5" name="MediaServiceImageTags"><vt:lpwstr></vt:lpwstr></property><property fmtid="{D5CDD505-2E9C-101B-9397-08002B2CF9AE}" pid="6" name="DS-01NI3VVI7V334L5JEWMRF2ENSEPBJXCB77"><vt:lpwstr>1:::::Engine Team Status</vt:lpwstr></property><property fmtid="{D5CDD505-2E9C-101B-9397-08002B2CF9AE}" pid="7" name="DS-01NI3VVIYJXN6IGRKB5RB3EOEWAUUI3H2N"><vt:lpwstr>2:::::Action items</vt:lpwstr></property><property fmtid="{D5CDD505-2E9C-101B-9397-08002B2CF9AE}" pid="8" name="DS-01NI3VVI2UODIONJ7Z3ZA3ARZVQJMUPJ7X"><vt:lpwstr>3:::::Brake Team Status</vt:lpwstr></property><property fmtid="{D5CDD505-2E9C-101B-9397-08002B2CF9AE}" pid="9" name="DS-MEETING_LEVEL"><vt:lpwstr>undefined:::::Meeting</vt:lpwstr></property><property fmtid="{D5CDD505-2E9C-101B-9397-08002B2CF9AE}" pid="10" name="DecisionsMergeAllOpenTasks"><vt:lpwstr>true</vt:lpwstr></property></Properties>
+<Properties xmlns="http://schemas.openxmlformats.org/officeDocument/2006/custom-properties" xmlns:vt="http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes">
+    <property fmtid="{D5CDD505-2E9C-101B-9397-08002B2CF9AE}" pid="2" name="DecisionsMeetingId">
+        <vt:lpwstr>040000008200E00074C5B7101A82E0080000000079185C9AE542DA010000000000000000100000000A34A90D3227824D8C86EBDA3D1A3DA0</vt:lpwstr>
+    </property>
+    <property fmtid="{D5CDD505-2E9C-101B-9397-08002B2CF9AE}" pid="3" name="DecisionsFileType">
+        <vt:lpwstr>MinutesWord</vt:lpwstr>
+    </property>
+    <property fmtid="{D5CDD505-2E9C-101B-9397-08002B2CF9AE}" pid="4" name="ContentTypeId">
+        <vt:lpwstr>0x010100F870E797FB5DB94597478477909AE4FB</vt:lpwstr>
+    </property>
+    <property fmtid="{D5CDD505-2E9C-101B-9397-08002B2CF9AE}" pid="5" name="MediaServiceImageTags">
+        <vt:lpwstr></vt:lpwstr>
+    </property>
+    <property fmtid="{D5CDD505-2E9C-101B-9397-08002B2CF9AE}" pid="6" name="DS-01NI3VVI7V334L5JEWMRF2ENSEPBJXCB77">
+        <vt:lpwstr>1:::::Engine Team Status</vt:lpwstr>
+    </property>
+    <property fmtid="{D5CDD505-2E9C-101B-9397-08002B2CF9AE}" pid="7" name="DS-01NI3VVIYJXN6IGRKB5RB3EOEWAUUI3H2N">
+        <vt:lpwstr>2:::::Action items</vt:lpwstr>
+    </property>
+    <property fmtid="{D5CDD505-2E9C-101B-9397-08002B2CF9AE}" pid="8" name="DS-01NI3VVI2UODIONJ7Z3ZA3ARZVQJMUPJ7X">
+        <vt:lpwstr>3:::::Brake Team Status</vt:lpwstr>
+    </property>
+    <property fmtid="{D5CDD505-2E9C-101B-9397-08002B2CF9AE}" pid="9" name="DS-MEETING_LEVEL">
+        <vt:lpwstr>undefined:::::Meeting</vt:lpwstr>
+    </property>
+    <property fmtid="{D5CDD505-2E9C-101B-9397-08002B2CF9AE}" pid="10" name="DecisionsMergeAllOpenTasks">
+        <vt:lpwstr>true</vt:lpwstr>
+    </property>
+</Properties>

@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <wetp:taskpanes xmlns:wetp="http://schemas.microsoft.com/office/webextensions/taskpanes/2010/11">
-  <wetp:taskpane dockstate="right" visibility="1" width="350" row="0">
-    <wetp:webextensionref r:id="rId1" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" />
-  </wetp:taskpane>
-  <wetp:taskpane dockstate="right" visibility="0" width="350" row="1">
-    <wetp:webextensionref r:id="R8f2b815ef97847ed" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" />
-  </wetp:taskpane>
+    <wetp:taskpane dockstate="right" visibility="1" width="350" row="0">
+        <wetp:webextensionref r:id="rId1" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" />
+    </wetp:taskpane>
+    <wetp:taskpane dockstate="right" visibility="0" width="350" row="1">
+        <wetp:webextensionref r:id="R8f2b815ef97847ed" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" />
+    </wetp:taskpane>
 </wetp:taskpanes>
