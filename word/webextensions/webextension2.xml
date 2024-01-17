@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<we:webextension xmlns:we="http://schemas.microsoft.com/office/webextensions/webextension/2010/11" id="{62D633A8-40F8-4B09-9A7A-E1B170757187}"><we:reference id="8c3cb653-caf7-473d-ac2b-1c7ef8fdd6ba" version="3.0.0.0" store="EXCatalog" storeType="EXCatalog"/><we:alternateReferences/><we:properties><we:property name="Office.AutoShowTaskpaneWithDocument" value="false"/></we:properties><we:bindings/><we:snapshot xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"/></we:webextension>
